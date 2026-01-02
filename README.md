@@ -7,33 +7,55 @@ A full-stack E-Commerce web application built using the MERN stack (MongoDB, Exp
 This project includes user authentication, product management, cart functionality, and order processing with a modern UI.
 
 🚀 Features
+
 👤 User Authentication (Register / Login)
+
 🛍️ Product Listing & Details Page
+
 🛒 Add to Cart & Remove from Cart
+
 💳 Order Placement
+
 🧑‍💼 Admin Dashboard
+
 Add / Edit / Delete Products
+
 📦 Backend REST APIs
+
 🌐 Responsive Frontend (React)
+
 🔐 Secure Environment Variables
 
 🛠️ Tech Stack
 Frontend
+
 React.js
+
 HTML5
+
 CSS3
+
 JavaScript
 
 Backend
+
 Node.js
+
 Express.js
+
 MongoDB
+
 Mongoose
 
 Tools & Libraries
+
 JWT (Authentication)
+
 bcrypt (Password Hashing)
+
 dotenv
+
+npm
 
 📁 Project Structure
 MERN-E-Commerce-Store
@@ -54,10 +76,14 @@ MERN-E-Commerce-Store
 ├── package.json
 └── README.md
 
-
 🎯 Future Enhancements
+
 Payment Gateway Integration
+
 Order Tracking
+
 Product Reviews & Ratings
+
 Wishlist Feature
+
 Improved Admin Analytics
